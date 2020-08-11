@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595119295 source:c:\users\usuario\documents\sergio\sistemas operativos\proyecto integrador _final\investigación 1.2 (sin-con comentarios)\investigación 1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

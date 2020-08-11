@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1594581368 source:c:\users\usuario\documents\proyecto integrador\investigación 1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1595818180 source:c:\users\usuario\documents\sergio\sistemas operativos\proyecto integrador _final\nueva carpeta\proyecto integrador\investigación 1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
